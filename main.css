@@ -181,7 +181,7 @@ label div:nth-child(2) {
 
 head {
     left: 50%;
-    top: 45%;
+    top: 45vh;
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
     width: 30%;
@@ -189,12 +189,19 @@ head {
 
 }
 
+#header {
+    position: absolute;
+    top: 45%;
+    height: 100%;
+    width: 100%;
+}
+
 #headertext {
     position: absolute;
     width: 100%;
 
     left: 50%;
-    top: 10em;
+    top: -50px;
 
     -webkit-transform: translate(-50%, -190%);
     transform: translate(-50%, -190%);
@@ -218,7 +225,7 @@ head {
 
 
     left: 50%;
-    top: 18.5em;
+    top: ;
 
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
@@ -935,7 +942,7 @@ li {
     }
 
     body {
-        left: -8px;
+        left: -2px;
     }
 
     .spacerDiv {
@@ -1057,14 +1064,14 @@ li {
 @media (max-width: 321px) {
     #headertext {
         font-size: 1.5rem;
-        top: 44%;
+        top: ;
         left: 48%;
     }
 
     #headerbody {
         font-size: .9rem;
         line-height: 25px;
-        top: 50%;
+        top: ;
         left: 48%;
     }
 
