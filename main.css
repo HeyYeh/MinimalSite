@@ -275,7 +275,7 @@ li {
 .menu_bottom {
     position: absolute;
     left: 50%;
-    top: 24em;
+    top: 55%;
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
 
