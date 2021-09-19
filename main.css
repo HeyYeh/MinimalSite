@@ -603,6 +603,7 @@ li {
 }
 
 #email {
+    display: block;
     cursor: pointer;
     margin-top: -45px;
 }
