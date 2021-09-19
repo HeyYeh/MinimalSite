@@ -683,9 +683,7 @@ li {
 }
 
 
-.game-block iframe {
-
-}
+.game-block iframe {}
 
 #pageTitle {
     display: inline-block;
@@ -948,6 +946,17 @@ li {
 
     .spacerDiv {
         height: 40vh;
+    }
+
+    .icon-scroll {
+        top: 65%;
+    }
+
+    .hamburger {
+
+
+        top: 90%;
+
     }
 
 }
