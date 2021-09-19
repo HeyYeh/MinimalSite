@@ -958,6 +958,10 @@ li {
         top: 90%;
 
     }
+    
+     #phoneMenu {
+        top: 40%;
+    }
 
 }
 
@@ -977,6 +981,10 @@ li {
     .pageImage,
     img {
         width: 100%;
+    }
+    
+     #phoneMenu {
+        top: 40%;
     }
 
 }
@@ -1027,6 +1035,10 @@ li {
         display: inline-block;
         width: 100vw;
     }
+    
+    #phoneMenu {
+        top: 40%;
+    }
 }
 
 @media (max-width: 376px) {
@@ -1055,7 +1067,7 @@ li {
         margin: 0 auto;
         padding: 0;
         left: ;
-        top: 45%;
+        top: 40%;
         -webkit-transform: translate(-50%, -50%);
         transform: translate(-50%, -50%);
 
